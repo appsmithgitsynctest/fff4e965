@@ -26,7 +26,7 @@
           "leftColumn": 0,
           "children": [
             {
-              "widgetName": "Input1",
+              "widgetName": "inputNameTempBranch3",
               "displayName": "Input",
               "iconSVG": "/static/media/icon.9f505595.svg",
               "topRow": 27,
@@ -59,8 +59,8 @@
         },
         "layoutOnLoadActions": [],
         "widgetNames": [
-          "Input1",
-          "MainContainer"
+          "MainContainer",
+          "inputNameTempBranch3"
         ],
         "validOnPageLoadActions": true,
         "id": "NewPage",
